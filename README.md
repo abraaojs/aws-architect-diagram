@@ -1,12 +1,12 @@
-# AWS
-In this repository different models of architectures are presented to implement systems in the cloud with AWS.
+# AWS, AZURE and GCP
+@Author Abraão Silva
+In this repository different models of architectures are presented to implement systems in the cloud with AWS, AZURE and AKS.
 
-## Architecture
+## Architecture AZURE
 <p align="center">
   <img src="Microservices-AKS-Azure-Kubernetes-Service.PNG" alt="Elastic products" style="width: 400px;"/>
 </p>
-
-### Features:
+### Features AWS:
 * EC2
 * RDS
 * Route 53
